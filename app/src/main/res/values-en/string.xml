@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MultipleLanguageDemo</string>
+    <string name="setting">setting</string>
+    <string name="zh">chinese</string>
+    <string name="en">english</string>
+    <string name="showtext">You cannot improve your past, but you can improve your future. Once time is wasted, life is wasted.</string>
+
+
+</resources>

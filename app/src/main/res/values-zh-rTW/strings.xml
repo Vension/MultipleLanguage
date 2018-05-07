@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">多语言测试</string>
+    <string name="setting">設置</string>
+    <string name="showtext">你不能改變你的過去，但你可以讓你的未來變得更美好。一旦時間浪費了，生命就浪費了。</string>
+    <string name="zh">简体中文</string>
+    <string name="en">英文</string>
+
+</resources>
